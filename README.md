@@ -1,2 +1,2 @@
 # TerraFPS
-this is the 2nd project for ESA Hack Club. 
+this is the FPS game made for the Terra workshop. have fun.
